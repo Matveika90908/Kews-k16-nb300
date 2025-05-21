@@ -1,3 +1,35 @@
 body {
     font-family: sans-serif;
+    background-image: linear-gradient(lightblue, white);
 }
+header{
+    background-color: paleturquoise;
+    padding: 20px;
+}
+.link-text{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+header a{
+    color: black;
+    background-color: rgb(121, 121, 226);
+    border: 1px solid white;
+    border-radius: 12px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 23px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    font-size: 20px;
+}
+footer{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
